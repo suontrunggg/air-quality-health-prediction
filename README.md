@@ -22,8 +22,8 @@ The dataset contains the following groups of variables:
 
 ```text
 air-quality-health-prediction/
-├── README.md
-├── requirements.txt
-├── data/
-├── notebooks/
-└── outputs/
+|-- README.md
+|-- requirements.txt
+|-- data/
+|-- notebooks/
+|-- outputs/
