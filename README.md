@@ -34,10 +34,3 @@ air-quality-health-prediction/
 |   |-- 02_Class3_Modeling_Evaluation.ipynb
 |-- outputs/
 ```
-
-## How to Run
-
-1. Install dependencies from `requirements.txt`.
-2. Open the notebooks in the `notebooks/` folder.
-3. Run `01_Class2_Data_Cleaning_EDA_ML_Preparation.ipynb` first to prepare the ML-ready dataset.
-4. Run `02_Class3_Modeling_Evaluation.ipynb` to train and evaluate the models.
