@@ -27,7 +27,6 @@ air-quality-health-prediction/
 |-- README.md
 |-- requirements.txt
 |-- data/
-<<<<<<< HEAD
 |   |-- air_quality_health_dataset.csv
 |   |-- air_quality_health_ml_ready.csv
 |-- notebooks/
@@ -42,7 +41,3 @@ air-quality-health-prediction/
 2. Open the notebooks in the `notebooks/` folder.
 3. Run `01_Class2_Data_Cleaning_EDA_ML_Preparation.ipynb` first to prepare the ML-ready dataset.
 4. Run `02_Class3_Modeling_Evaluation.ipynb` to train and evaluate the models.
-=======
-|-- notebooks/
-|-- outputs/
->>>>>>> d4ee9004d33441657d5f99bdeb724f236b585070
