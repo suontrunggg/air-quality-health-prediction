@@ -36,4 +36,3 @@ air-quality-health-prediction/
 |   |-- 01_Class2_Data_Cleaning_EDA_ML_Preparation.ipynb
 |   |-- 02_Class3_Modeling_Evaluation.ipynb
 |   |-- 03_Class4_Publishing_and_Feedback.ipynb
-|-- outputs/
